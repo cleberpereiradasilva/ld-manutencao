@@ -153,7 +153,7 @@ export default function LandingPage() {
             <h4 className="font-semibold mb-2">Fale Conosco</h4>
             <ul className="space-y-1 text-sm">
               <li>Email: ldmanutencoesrocada@gmail.com</li>
-              <li>Tel: (18) 9 99663-1645 / (18) 9 9704-5759</li>
+              <li>Tel: (18) 9 99663-1645</li>
             </ul>
           </div>
         </div>
