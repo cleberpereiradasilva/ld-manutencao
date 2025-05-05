@@ -90,7 +90,7 @@ export default function LandingPage() {
               <Mail className="w-5 h-5" /> ldmanutencoesrocada@gmail.com
             </p>
             <p className="flex items-center gap-2">
-              <Phone className="w-5 h-5" /> (18) 9 99663-1645 / (18) 9 9704-5759
+              <Phone className="w-5 h-5" /> (18) 9 99663-1645
             </p>
             <p className="flex items-center gap-2">
               <MapPin className="w-5 h-5" /> Travessa das Limeiras, 146, Centro,
