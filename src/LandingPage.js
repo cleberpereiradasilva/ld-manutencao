@@ -4,7 +4,6 @@ import { Mail, Phone, MapPin } from "lucide-react";
 export default function LandingPage() {
   return (
     <div className="min-h-screen bg-[#FBFEFD] text-[#063B6D] font-sans">
-      {/* Header */}
       <header className="bg-[#063B6D] text-white p-6 shadow-md">
         <div className="container mx-auto flex flex-col md:flex-row items-center justify-between">
           <h1 className="text-3xl font-bold">
@@ -145,7 +144,7 @@ export default function LandingPage() {
           <div>
             <h4 className="font-semibold mb-2">Informações</h4>
             <ul className="space-y-1 text-sm">
-              <li>CNPJ: 53.597.280/0001-23</li>
+              <li>CNPJ: 53.597.280/0001-23 </li>
               <li>Rosana/SP - CEP: 19.274-000</li>
             </ul>
           </div>
